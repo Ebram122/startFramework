@@ -1,0 +1,31 @@
+.line-star {
+  background-color: #fff;
+  width: 60px;
+  height: 3px;
+  display: inline-block;
+}
+
+.home,
+.about {
+  background-color: #1abc9c;
+  min-height: 100vh;
+}
+
+.title-color {
+  color: #2c3e50;
+}
+
+.bg-color {
+  background-color: #2c3e50;
+}
+
+.active-link {
+  background-color: #1abc9c;
+  border-radius: 5px;
+  padding: 8px;
+  color: #fff;
+}
+
+.home-image {
+  width: 250px;
+}
